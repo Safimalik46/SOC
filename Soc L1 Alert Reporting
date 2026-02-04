@@ -1,0 +1,23 @@
+# TryHackMe: SOC Level 1 — Alert Reporting
+
+I completed the TryHackMe SOC Level 1 Alert Reporting room, where I practiced **real-world SOC alert investigation, reporting, and escalation**.  
+
+🔗 Room link: [SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6932d3cebe636becd5eb2284)  
+
+### Skills Demonstrated
+- SIEM alert analysis  
+- True Positive vs False Positive identification  
+- Writing structured alert reports  
+- Escalation procedures in SOC  
+
+## SOCL1 Alert Triage — Summary
+
+### Double Extension File Creation
+- **True Positive**  
+- User downloaded `.exe` disguised as `.mp4`  
+- Investigation concluded phishing/malware risk  
+
+### GitHub Download Alert
+- **False Positive**  
+- Legitimate repository (`facebook/react`)  
+
